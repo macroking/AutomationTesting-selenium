@@ -1,0 +1,14 @@
+{
+  "name": "protractor_demo",
+  "version": "1.0.0",
+  "description": "Protractor Demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anonymous",
+  "license": "ISC",
+  "dependencies": {
+    "protractor": "^5.2.0"
+  }
+}
