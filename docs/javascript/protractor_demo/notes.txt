@@ -1,0 +1,19 @@
+#-------------------------------------------------------------------------------------------------#
+#                                 SYSTEM SETUP                                                    #
+#-------------------------------------------------------------------------------------------------#
+1. Install JRE / JAVA and add it to Environment Variables in Windows or PATH in Linux.
+2. Find a suitable IDE of your choice, I am using VS Code for all my development.
+3. Install NodeJS, make sure to add the binary to Environment Variables in Windows or PATH in Linux.
+4. Latest version of Protractor needs NodeJS 6.9.0 or greater.
+5. Install Git, you need it to download / upload stuff to github.
+
+
+#-------------------------------------------------------------------------------------------------#
+#                                 PROJECT SETUP                                                   #
+#-------------------------------------------------------------------------------------------------#
+1. mkdir protractor_demo
+2. cd protractor_demo
+3. touch .gitignore
+4. npm init
+5. npm i protractor -S
+6. 
